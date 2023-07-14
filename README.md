@@ -6,7 +6,7 @@
   - Evaluation Dataset Accuracy : 95.44%
   - 최종 SVM/기타 분야에서 2등
     ![보고서 다운로드](./src/imgResult.png)
-  - 나머지는 한글 파일로 기제된 자세한 보고서 내용 참조 -> <a download="기계학습보고서_기하하하학.hwp" href="./src" download>다운로드</a>
+  - 나머지는 한글 파일로 기제된 자세한 보고서 내용 참조 -> <a name="기계학습보고서_기하하하학.hwp" href="https://drive.google.com/uc?export=download&id=1QAGvtnPmbxDObrOuoOYno831q77qOKYb">다운로드</a>
   
 ## **1. 코드 실행 설명**
 
